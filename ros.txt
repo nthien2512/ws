@@ -1,0 +1,5 @@
+rostopic list
+rostopic echo <ten topic>
+rostopic hz <ten topic>
+rostopic info <ten topic>
+rostopic pub robot_pose <tab> <tab>
