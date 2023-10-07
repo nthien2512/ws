@@ -1,0 +1,4 @@
+std_msgs/ColorRGBA color
+---
+bool success
+string message
