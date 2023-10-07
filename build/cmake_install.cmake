@@ -132,8 +132,9 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/thien-ros/src/ws/build/gtest/cmake_install.cmake")
   include("/home/thien-ros/src/ws/build/demo/cmake_install.cmake")
-  include("/home/thien-ros/src/ws/build/robot_controller/cmake_install.cmake")
   include("/home/thien-ros/src/ws/build/robot_simulation/cmake_install.cmake")
+  include("/home/thien-ros/src/ws/build/robot_msgs/cmake_install.cmake")
+  include("/home/thien-ros/src/ws/build/robot_controller/cmake_install.cmake")
 
 endif()
 

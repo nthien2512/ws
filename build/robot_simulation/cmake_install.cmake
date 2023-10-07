@@ -56,3 +56,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/robot_simulation" TYPE PROGRAM FILES "/home/thien-ros/src/ws/build/robot_simulation/catkin_generated/installspace/robot_simulation.py")
 endif()
 
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/robot_simulation" TYPE PROGRAM FILES "/home/thien-ros/src/ws/build/robot_simulation/catkin_generated/installspace/client.py")
+endif()
+

@@ -962,3 +962,4100 @@ make: *** [Makefile:121: cmTC_5dd7d/fast] Error 2
 
 
 
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_877a9/fast && /usr/bin/make -f CMakeFiles/cmTC_877a9.dir/build.make CMakeFiles/cmTC_877a9.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_877a9.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_877a9.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_877a9.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_877a9.dir/build.make:66: CMakeFiles/cmTC_877a9.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_877a9/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_962ff/fast && /usr/bin/make -f CMakeFiles/cmTC_962ff.dir/build.make CMakeFiles/cmTC_962ff.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_962ff.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_962ff.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_962ff.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_962ff.dir/build.make:66: CMakeFiles/cmTC_962ff.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_962ff/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7c462/fast && /usr/bin/make -f CMakeFiles/cmTC_7c462.dir/build.make CMakeFiles/cmTC_7c462.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7c462.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_7c462.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_7c462.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_7c462.dir/build.make:66: CMakeFiles/cmTC_7c462.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_7c462/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a0f50/fast && /usr/bin/make -f CMakeFiles/cmTC_a0f50.dir/build.make CMakeFiles/cmTC_a0f50.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a0f50.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_a0f50.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_a0f50.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_a0f50.dir/build.make:66: CMakeFiles/cmTC_a0f50.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_a0f50/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ee972/fast && /usr/bin/make -f CMakeFiles/cmTC_ee972.dir/build.make CMakeFiles/cmTC_ee972.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ee972.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_ee972.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_ee972.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_ee972.dir/build.make:66: CMakeFiles/cmTC_ee972.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_ee972/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ee5bb/fast && /usr/bin/make -f CMakeFiles/cmTC_ee5bb.dir/build.make CMakeFiles/cmTC_ee5bb.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ee5bb.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_ee5bb.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_ee5bb.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_ee5bb.dir/build.make:66: CMakeFiles/cmTC_ee5bb.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_ee5bb/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0b25f/fast && /usr/bin/make -f CMakeFiles/cmTC_0b25f.dir/build.make CMakeFiles/cmTC_0b25f.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0b25f.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_0b25f.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_0b25f.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_0b25f.dir/build.make:66: CMakeFiles/cmTC_0b25f.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0b25f/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_63c25/fast && /usr/bin/make -f CMakeFiles/cmTC_63c25.dir/build.make CMakeFiles/cmTC_63c25.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_63c25.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_63c25.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_63c25.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_63c25.dir/build.make:66: CMakeFiles/cmTC_63c25.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_63c25/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_47ec6/fast && /usr/bin/make -f CMakeFiles/cmTC_47ec6.dir/build.make CMakeFiles/cmTC_47ec6.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_47ec6.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_47ec6.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_47ec6.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_47ec6.dir/build.make:66: CMakeFiles/cmTC_47ec6.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_47ec6/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2f900/fast && /usr/bin/make -f CMakeFiles/cmTC_2f900.dir/build.make CMakeFiles/cmTC_2f900.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2f900.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_2f900.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_2f900.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_2f900.dir/build.make:66: CMakeFiles/cmTC_2f900.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_2f900/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0b8ba/fast && /usr/bin/make -f CMakeFiles/cmTC_0b8ba.dir/build.make CMakeFiles/cmTC_0b8ba.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0b8ba.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_0b8ba.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_0b8ba.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_0b8ba.dir/build.make:66: CMakeFiles/cmTC_0b8ba.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0b8ba/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_808b9/fast && /usr/bin/make -f CMakeFiles/cmTC_808b9.dir/build.make CMakeFiles/cmTC_808b9.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_808b9.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_808b9.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_808b9.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_808b9.dir/build.make:66: CMakeFiles/cmTC_808b9.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_808b9/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e197b/fast && /usr/bin/make -f CMakeFiles/cmTC_e197b.dir/build.make CMakeFiles/cmTC_e197b.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e197b.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_e197b.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_e197b.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_e197b.dir/build.make:66: CMakeFiles/cmTC_e197b.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e197b/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_de169/fast && /usr/bin/make -f CMakeFiles/cmTC_de169.dir/build.make CMakeFiles/cmTC_de169.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_de169.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_de169.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_de169.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_de169.dir/build.make:66: CMakeFiles/cmTC_de169.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_de169/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_df56e/fast && /usr/bin/make -f CMakeFiles/cmTC_df56e.dir/build.make CMakeFiles/cmTC_df56e.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_df56e.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_df56e.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_df56e.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_df56e.dir/build.make:66: CMakeFiles/cmTC_df56e.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_df56e/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e898d/fast && /usr/bin/make -f CMakeFiles/cmTC_e898d.dir/build.make CMakeFiles/cmTC_e898d.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e898d.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_e898d.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_e898d.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_e898d.dir/build.make:66: CMakeFiles/cmTC_e898d.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e898d/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCCompilerId.o: Invalid argument
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Invalid argument
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+Assembler messages:
+Fatal error: can't create CMakeCXXCompilerId.o: Invalid argument
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command-line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /mnt/c/msys64/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command-line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f5b04/fast && /usr/bin/make -f CMakeFiles/cmTC_f5b04.dir/build.make CMakeFiles/cmTC_f5b04.dir/build
+make[1]: Entering directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f5b04.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_f5b04.dir/testCCompiler.c.o   -c /home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_f5b04.dir/testCCompiler.c.o: Invalid argument
+make[1]: *** [CMakeFiles/cmTC_f5b04.dir/build.make:66: CMakeFiles/cmTC_f5b04.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/thien-ros/src/ws/src/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_f5b04/fast] Error 2
+
+
+

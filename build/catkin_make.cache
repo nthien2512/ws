@@ -1,2 +1,2 @@
-demo:robot_controller:robot_simulation
+demo:robot_controller:robot_msgs:robot_simulation
 -DCATKIN_DEVEL_PREFIX=/home/thien-ros/src/ws/devel -DCMAKE_INSTALL_PREFIX=/home/thien-ros/src/ws/install -G Unix Makefiles

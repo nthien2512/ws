@@ -3,6 +3,7 @@ import numpy as np
 import tf
 from geometry_msgs.msg import Pose2D, Twist
 from visualization_msgs.msg import Marker
+from robot_msgs.srv import ChangeColor, ChangeColorRequest, ChangeColorResponse
 
 class  RobotSimulation:
   def __init__(self):
@@ -13,6 +14,10 @@ class  RobotSimulation:
     self.robot_rviz_publisher = rospy.Publisher("robot_rviz", Marker, queue_size=1)
 
     self.cmd_vel_subscriber = rospy.Subscriber("cmd_vel", Twist, self.cmd_vel_cb)
+    self.change_color_srv = rospy.Service("change_color", ChangeColor, self.change_color_cb) 
+
+    self.robot_rviz.color.r = 1.0
+    self.robot_rviz.color.a = 1.0
 
     self.time_frame = rospy.Time.now().to_sec()
 
@@ -50,10 +55,17 @@ class  RobotSimulation:
     self.robot_rviz.scale.y = 0.4
     self.robot_rviz.scale.z = 0.3
     
-    self.robot_rviz.color.r = 1.0
-    self.robot_rviz.color.a = 1.0
+    # self.robot_rviz.color.r = 1.0
+    # self.robot_rviz.color.a = 1.0
 
     self.robot_rviz_publisher.publish(self.robot_rviz)
+
+  def  change_color_cb(self, req):
+    self.robot_rviz.color = req.color
+    res = ChangeColorResponse()
+    res.success = True
+    res.message = "OK"
+    return res
 
 def main():
   rospy.init_node("robot_simulation")
