@@ -136,17 +136,21 @@ class RobotController
         {
             //code cua bo dieu khien
             geometry_msgs::Twist vel;
-            if (enable_moving) {
-                //van toc tinh tien
-                vel.linear.x = 1.0;
-                //toc do goc quay quanh truc z
-                vel.angular.z = 1.0;
-            } else {
-                //van toc tinh tien
-                vel.linear.x = 0.0;
-                //toc do goc quay quanh truc z
-                vel.angular.z = 0.0;
-            }
+            // if (enable_moving) {
+            //     //van toc tinh tien
+            //     vel.linear.x = 1.0;
+            //     //toc do goc quay quanh truc z
+            //     vel.angular.z = 1.0;
+            // } else {
+            //     //van toc tinh tien
+            //     vel.linear.x = 0.0;
+            //     //toc do goc quay quanh truc z
+            //     vel.angular.z = 0.0;
+            // }
+            //van toc tinh tien
+            vel.linear.x = 0.0;
+            //toc do goc quay quanh truc z
+            vel.angular.z = 0.0;
             
             cmd_vel_pub_.publish(vel);
         }
