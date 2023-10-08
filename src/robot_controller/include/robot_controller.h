@@ -47,6 +47,8 @@ class RobotController
 
         void executeCB(const robot_msgs::MoveToPoseGoalConstPtr& goal)
         {
+            enable_moving = true;
+
             ros::Rate loop_rate(20);
             double dx = goal->target_pose.x - robot_pose_.x;
             double dy = goal->target_pose.y - robot_pose_.y;
@@ -87,6 +89,8 @@ class RobotController
 
                 loop_rate.sleep();
             }
+            
+            enable_moving = false;
         }
 
         bool enableCB(std_srvs::SetBool::Request& req,
@@ -136,12 +140,10 @@ class RobotController
         {
             //code cua bo dieu khien
             geometry_msgs::Twist vel;
-            // if (enable_moving) {
-            //     //van toc tinh tien
-            //     vel.linear.x = 1.0;
-            //     //toc do goc quay quanh truc z
-            //     vel.angular.z = 1.0;
-            // } else {
+            if (enable_moving) {
+                return;
+            }
+            // else {
             //     //van toc tinh tien
             //     vel.linear.x = 0.0;
             //     //toc do goc quay quanh truc z
@@ -151,7 +153,7 @@ class RobotController
             vel.linear.x = 0.0;
             //toc do goc quay quanh truc z
             vel.angular.z = 0.0;
-            std::cout << "Publish vel" << std::endl;
+            // std::cout << "Publish vel" << std::endl;
             cmd_vel_pub_.publish(vel);
         }
 };
