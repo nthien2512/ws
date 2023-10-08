@@ -107,15 +107,15 @@ class RobotController
             double dy = target.y - robot_pose_.y;
             double rho = sqrt(dx * dx + dy * dy);
             double beta = atan2(dy, dx);
-            if (rho < 0.02) {
-                beta = 0;
-            }
             double alpha = beta - robot_pose_.theta;
             const double gamma = 1.0;
-            const double k = 1.0, h = 1.0;
+            const double k = 1.0, h = 0.05;
             double u = gamma * tanh(rho) * cos(alpha);
             double omega = k * alpha + gamma * sin(alpha) / alpha * tanh(rho) / rho * cos(alpha) * (alpha - h * beta);
-
+            if (rho < 0.02) {
+                u = 0.0;
+                omega = -k * (robot_pose_.theta - target.theta);
+            }
             geometry_msgs::Twist cmd_vel;
             cmd_vel.linear.x = u;
             cmd_vel.angular.z = omega;

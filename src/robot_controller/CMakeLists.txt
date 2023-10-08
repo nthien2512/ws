@@ -143,6 +143,10 @@ add_executable(rb_ctl src/robot_controller.cpp)
 target_link_libraries(rb_ctl ${catkin_LIBRARIES})
 add_dependencies(rb_ctl ${catkin_EXPORTED_TARGETS})
 
+add_executable(action_client src/action_client.cpp)
+target_link_libraries(action_client ${catkin_LIBRARIES})
+add_dependencies(action_client ${catkin_EXPORTED_TARGETS})
+
 ## Rename C++ executable without prefix
 ## The above recommended prefix causes long target names, the following renames the
 ## target back to the shorter version for ease of user use
