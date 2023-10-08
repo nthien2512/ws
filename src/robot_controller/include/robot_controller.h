@@ -89,7 +89,7 @@ class RobotController
 
                 loop_rate.sleep();
             }
-            
+
             enable_moving = false;
         }
 
@@ -107,8 +107,11 @@ class RobotController
             double dy = target.y - robot_pose_.y;
             double rho = sqrt(dx * dx + dy * dy);
             double beta = atan2(dy, dx);
+            if (rho < 0.02) {
+                beta = 0;
+            }
             double alpha = beta - robot_pose_.theta;
-            const double gamma = 0.5;
+            const double gamma = 1.0;
             const double k = 1.0, h = 1.0;
             double u = gamma * tanh(rho) * cos(alpha);
             double omega = k * alpha + gamma * sin(alpha) / alpha * tanh(rho) / rho * cos(alpha) * (alpha - h * beta);
