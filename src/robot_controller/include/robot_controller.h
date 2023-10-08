@@ -151,7 +151,7 @@ class RobotController
             vel.linear.x = 0.0;
             //toc do goc quay quanh truc z
             vel.angular.z = 0.0;
-            
+            std::cout << "Publish vel" << std::endl;
             cmd_vel_pub_.publish(vel);
         }
 };
