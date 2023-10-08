@@ -10,11 +10,13 @@ class RobotController
 {
     private:
         ros::NodeHandle nh_;
-        nav_msgs::Path path_;
-        geometry_msgs::Pose2D robot_pose_;
         ros::Subscriber path_sub_, robot_pose_sub_;
         ros::Publisher cmd_vel_pub_;
         ros::ServiceServer enable_srv;
+
+        nav_msgs::Path path_;
+        geometry_msgs::Pose2D robot_pose_;
+
         bool enable_moving = false;
 
         actionlib::SimpleActionServer<robot_msgs::MoveToPoseAction> as_;
@@ -30,6 +32,7 @@ class RobotController
 
             as_.start();
         }
+
         ~RobotController()
         {
         }
@@ -50,8 +53,8 @@ class RobotController
             enable_moving = true;
 
             ros::Rate loop_rate(20);
-            double dx = goal->target_pose.x - robot_pose_.x;
-            double dy = goal->target_pose.y - robot_pose_.y;
+            double dx = goal -> target_pose.x - robot_pose_.x;
+            double dy = goal -> target_pose.y - robot_pose_.y;
             double init_distance = sqrt(dx * dx + dy * dy);
 
             while (ros::ok()) {
@@ -74,7 +77,7 @@ class RobotController
 
                 double distance_tol = 0.02;
                 double angle_tol = 0.02;
-                double angle_diff = goal->target_pose.theta - robot_pose_.theta;
+                double angle_diff = goal -> target_pose.theta - robot_pose_.theta;
                 angle_diff = norm_angle(angle_diff);
 
                 if (current_distance < distance_tol && angle_diff < angle_tol) {
@@ -89,8 +92,8 @@ class RobotController
 
                 loop_rate.sleep();
             }
-
             enable_moving = false;
+            return;
         }
 
         bool enableCB(std_srvs::SetBool::Request& req,
@@ -102,7 +105,7 @@ class RobotController
             return true;
         }
 
-        geometry_msgs::Twist control(const geometry_msgs::Pose2D &target, double &current_distance) {
+        geometry_msgs::Twist control(const geometry_msgs::Pose2D& target, double& current_distance) {
             double dx = target.x - robot_pose_.x;
             double dy = target.y - robot_pose_.y;
             double rho = sqrt(dx * dx + dy * dy);

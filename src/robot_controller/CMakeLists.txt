@@ -143,7 +143,7 @@ add_executable(rb_ctl src/robot_controller.cpp)
 target_link_libraries(rb_ctl ${catkin_LIBRARIES})
 add_dependencies(rb_ctl ${catkin_EXPORTED_TARGETS})
 
-add_executable(action_client src/action_client.cpp)
+add_executable(action_client src/ac.cpp)
 target_link_libraries(action_client ${catkin_LIBRARIES})
 add_dependencies(action_client ${catkin_EXPORTED_TARGETS})
 
